@@ -102,7 +102,7 @@
     color: var(--text-shadow);
     font-weight: var(--font-weight-bold);
     font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
-    line-height: 96px;
+    line-height: 95.7px;
     text-shadow: 4px 4px 0 var(--bg-accent-color);
 }
 
@@ -122,7 +122,7 @@
     color: var(--accent-text-color);
     font-weight: var(--font-weight-bold);
     font-size: 18px;
-    line-height: 23px;
+    line-height: 23.4px;
     background-color: var(--bg-accent-color);
 }
 
@@ -142,7 +142,7 @@
     color: var(--decor-color);
     font-weight: var(--font-weight-bold);
     font-size: 18px;
-    line-height: 23px;
+    line-height: 23.4px;
 }
 
 .wrapper__section {
@@ -164,7 +164,7 @@
     color: var(--main-text-color);
     font-weight: var(--font-weight-normal);
     font-size: 18px;
-    line-height: 23px;
+    line-height: 23.4px;
 }
 
 .text_item-title {
